@@ -1,2 +1,2 @@
-# alx-repository
+# alx-pre_course
 ALX first repository
